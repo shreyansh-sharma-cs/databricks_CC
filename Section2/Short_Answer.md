@@ -333,6 +333,7 @@ Step 2: Log the Model with MLflow
 Step 3: Register the Model
 Step 4: Validate and Promote - Staging and Prod
 Step 5: Deploy the Model
+
 -------------------------------------------------------------------------------------------------------
 **Q20**
 **What is one key advantage of using notebooks in Databricks for machine learning development?**
